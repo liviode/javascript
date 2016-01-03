@@ -1,2 +1,2 @@
 # javascript
-My first JS programms
+My first JS programs
